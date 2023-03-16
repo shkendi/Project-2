@@ -36,7 +36,8 @@ function ShowCoin() {
 	}
 
 
-	return <div className="card is-max-desktop">
+	// return <div className="card is-max-desktop">
+	return <div className="card">
 		<div className="card-wrap">
 			<div className="container">
 			</div>

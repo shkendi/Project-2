@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 function Navbar() {
 	return (
 	<div>
-	<header className="navbar-item is-fullheight">
+	<header className="header">
 		<section className="nav-section">
 		<nav className="navbar-section is_black is_fullheight">
 			<div className="section is_black">

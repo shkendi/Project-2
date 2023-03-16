@@ -19,15 +19,12 @@ function Coins( {name, id, symbol, market_cap_usd, price_usd, price_btc, percent
 	
 	return (
 		<>
-		<Link to={`/coin/${id}`} >
+		<Link to={`/coin/${id}`}>
 		<div className="container is-max-desktop">
   <div className="container-wrap is-full height">
-    {/* This container has a <code>max-width</code> of <code>$desktop - $container-offset</code> on widescreen and fullhd. */}
+    
 
-		{/* <Link to="/">{"⬅ Back to Home"}</Link> */}
-		{/* <Link to={`/coin/${id}`} > */}
-		{/* <div className = "coin-row">
-			<div className="card-container"> */}
+		
 			<div className="coin-items">
 			<span className="card-name is-black is-size-5">Name {name}</span>
 			<span className="card-symbol is-size-5 is-black">Symbol {symbol}</span>

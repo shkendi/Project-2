@@ -12,7 +12,7 @@ function Home() {
 		<><Link to="/">
 		</Link>
 			<div>
-				<div className="title is-fullwidth is-size-1">
+				<div className="title> <is-fullwidth is-size-1">
 					<h1>Welcome to CryptoMarket</h1></div>
 				<div className="Array2 is-size-3">
 				<Link to="/coins">{"⬅ Go to All Coins "}</Link>
