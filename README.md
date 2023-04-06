@@ -1,11 +1,11 @@
 # Project-2 Readme link
 
 
-Project – 2 ReadMe
+#Project – 2 ReadMe
 
-Description
+##Description
 
-Criptoapp
+##Criptoapp
 
 Project-2 consists in creating a single-page app using React and a public API. To deploy, we had to use Netlify. I often wondered why people are attracted to virtual coins, wanting to make money in an easy way, and came up with the idea of building my own crypto app. Only then I realised the endless number of virtual coins that were available on the internet.
 
@@ -16,13 +16,13 @@ Project-2 consists in creating a single-page app using React and a public API. T
 
 
 
-Deployment link:
+##Deployment link:
 
 https://criptoapp-project-2.netlify.app
 
 
 
-Getting Started/Code Installation
+##Getting Started/Code Installation
 
 Set up the project-2 repo 
 open Project-2 in my code editor
@@ -33,7 +33,7 @@ run 'npm run dev' to run the program
 
 
 
-Timeframe & Working Team (Solo/Pair/Group)
+##Timeframe & Working Team (Solo/Pair/Group)
 
 
 This was a solo project. I completed it during week 12 of the General Assembly Flex Software Engineering Immersive, for a period of 9 days.
@@ -42,7 +42,7 @@ This was a solo project. I completed it during week 12 of the General Assembly F
 
 
 
-Technologies Used
+##Technologies Used
 
 
 React
@@ -65,7 +65,7 @@ Be deployed online and accessible to the public.
 
 
  
-Planning
+##Planning
 
 
 I used QuickDBD tables to plan ahead for the project. This platform was easy to use and straightforward when it came to the features I wanted to add to my project. It helped me stay focused and manage my time well.
@@ -78,7 +78,10 @@ I created table schemas and each one of them was representing a component. So ba
 The first thing I did before starting the project was to do some research on public APIs and make sure I found the one that works without me needing to sign in for a free public API.
 The second thing to do was decide on what to build and what data I needed to have when making the choice. I decided that I would concentrate on building a simple app that works with a single API, to make a few pages that work well. In the second stage, I would implement a second public API so I could add the calculator and the exchange features. The time was not enough for me to complete my stretch goals but I still got a single-page application that works well.
 
-Build/Code Process
+
+##Build/Code Process
+
+
 The Router
 The first thing I did was install the React dependencies.
 
@@ -139,16 +142,16 @@ To style my project this time, I used Bulma and that was my first time ever usin
 
 
 
-Challenges
+##Challenges
 
 There were a few challenges in this project. Firstly, it was a bit hard for me to understand JSX syntax and often had to go back to read docs and watch the lessons and labs before I wrote something. Secondly, as a beginner in TypeScript,  I faced its pros and cons but I really enjoyed applying it to my project, it really improved my code to another level.
 
-Wins
+##Wins
 
 My main objective was to have a single-page app that works and that has been met so far, which means that later I could add other features and add better styling too. I was happy that I could build a responsive app designed for mobile and desktop. The React  methods I applied were functional. I enjoyed building the search bar and adding the React arrow icon as an extra functionality to my app. 
 
 
-Key Learnings/Takeaways
+##Key Learnings/Takeaways
 
 
 Through this project, I learned mapping and filtering data from the public API. I used this project to apply React, JSX and TypeScript which we were learning during that period of time in the SEI course with GA. It also was my first time ever using Bulma SCSS. Being my first time ever building a single-page app, I fully enjoyed every bit of code I built during this project and for me this was a great experience.
@@ -181,13 +184,13 @@ function Navbar() {
 
 
 
-Bugs
+##Bugs
 
 The right side of the app, where the All Coins link page is not positioned fully inside the Navbar and that’s lacking in both versions, mobile and desktop. I believe that is partly because it was the first time I tried Bulma and because I ran out of time.
 
 
 
-Future Improvements
+##Future Improvements
 
 I had planned to implement a calculator and exchange page too but having no time I decided that these could be my next todos in the improvement list.
 
